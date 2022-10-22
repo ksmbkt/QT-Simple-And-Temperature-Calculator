@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>calculator.ico</file>
+        <file>celsius.ico</file>
+        <file>fahrenheit.ico</file>
+        <file>kelvin.ico</file>
+    </qresource>
+</RCC>
